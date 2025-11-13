@@ -35,6 +35,6 @@ Aplikasi ini dirancang untuk mempermudah proses pelabelan kata/frasa baru menggu
 <ol>
 <li>Download <a href="https://drive.google.com/drive/folders/1BchigjzxR1_N9UZsZ6l4sNEw7MEOUS_U?usp=sharing" target="_blank">Phrase Correction Tool di Google Drive</a></li>
 <li>Lalu klik kanan pada file rar, pilih ekstrak to <code>Phrase Correction Tool</code></li>
-<li>Buka folder <code>dist/main</code> lalu klik 2 kali pada aplilasi <code>Phrase Correction Tool.exe</code></li>
+<li>Buka folder <code>main</code> lalu klik 2 kali pada aplilasi <code>Phrase Correction Tool.exe</code></li>
 <li>Jalankan aplikasi</li>
 </ol>
